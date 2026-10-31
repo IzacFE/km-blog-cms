@@ -1,5 +1,5 @@
 ---
-title: Bounce Mushroom Coral: Si Balon yang Disukai Semua Orang!!
+title: "Bounce Mushroom Coral: Si Balon yang Disukai Semua Orang!!"
 description: Bounce mushroom coral adalah salah satu karang paling memukau di hobby akuarium laut. Ciri khasnya adalah tekstur seperti gelembung yang terkesan 'memantul' cahaya ke segala arah.
 category: ILMU KARANG
 categoryColor: info

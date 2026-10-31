@@ -1,5 +1,5 @@
 ---
-title: Jawbreaker Discosoma: Warna dan Pola Menakjubkan yang Bikin Kamu Takjub
+title: "Jawbreaker Discosoma: Warna dan Pola Menakjubkan yang Bikin Kamu Takjub"
 date: 2026-10-20
 category: Ilmu Karang
 tags: [karang, jamur-laut, jawbreaker]
@@ -14,6 +14,7 @@ Jawbreaker mushroom adalah salah satu karang yang paling mudah dikenali dan pali
 ## Apa itu Jawbreaker Mushroom?
 
 Jawbreaker mushroom adalah morfologi Discosoma yang ditandai dengan:
+
 - **Cincin warna konsentris**: Beberapa lingkaran warna yang memancar dari tengah
 - **Kontras tinggi**: Batas warna yang tegas dan mencolok
 - **Kilau metalik**: Sering memiliki kualitas iridesen
@@ -22,6 +23,7 @@ Jawbreaker mushroom adalah morfologi Discosoma yang ditandai dengan:
 ## Pola Warna
 
 Pola jawbreaker klasik menampilkan:
+
 - Warna tengah (sering merah atau oranye)
 - Lingkaran warna berbeda di sekelilingnya
 - Transisi tajam antar warna
@@ -30,18 +32,21 @@ Pola jawbreaker klasik menampilkan:
 ## Kebutuhan Perawatan
 
 ### Pencahayaan
+
 - Lebih suka cahaya rendah hingga sedang
 - PAR 50–100 adalah ideal
 - Terlalu banyak cahaya bisa memudarkan warna
 - Aklimatisasi bertahap sangat penting
 
 ### Aliran Air
+
 - Arus rendah hingga sedang
 - Arus lembut adalah yang terbaik
 - Hindari arus langsung yang kuat
 - Arus membantu pertukaran nutrisi
 
 ### Parameter Air
+
 - Suhu: 22–26°C
 - pH: 8,1–8,4
 - Alkalinitas: 8–12 dKH
@@ -57,6 +62,7 @@ Pola jawbreaker klasik menampilkan:
 ## Pemberian Pakan
 
 Jawbreaker mushroom mendapat manfaat dari:
+
 - Pemberian pakan langsung dengan makanan berprotein
 - Udang mysis, brine shrimp
 - Sesekali fitoplankton
@@ -65,6 +71,7 @@ Jawbreaker mushroom mendapat manfaat dari:
 ## Menjaga Warna
 
 Untuk mempertahankan warna yang cerah:
+
 - Parameter air yang stabil
 - Pencahayaan yang tepat
 - Pemberian pakan teratur
@@ -74,12 +81,14 @@ Untuk mempertahankan warna yang cerah:
 ## Masalah Umum
 
 ### Warna Pudar
+
 - Sering karena perubahan pencahayaan
 - Periksa kualitas air
 - Pastikan nutrisi yang cukup
 - Kurangi intensitas cahaya jika perlu
 
 ### Mengkerut
+
 - Bisa terjadi saat parameter berubah
 - Periksa keberadaan hama
 - Verifikasi aliran air
@@ -88,6 +97,7 @@ Untuk mempertahankan warna yang cerah:
 ## Perbanyakan
 
 Perbanyak jawbreaker mushroom dengan:
+
 - Memotong melalui tangkai
 - Menggunakan metode rubber band
 - Melepas dan mengiris
@@ -96,6 +106,7 @@ Perbanyak jawbreaker mushroom dengan:
 ## Nilai dan Kelangkaan
 
 Jawbreaker mushroom adalah:
+
 - Sangat diminati
 - Lebih mahal dari mushroom biasa
 - Dianggap sebagai barang koleksi

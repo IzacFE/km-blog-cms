@@ -1,5 +1,5 @@
 ---
-title: Eid Mubarak: 1447 H
+title: "Eid Mubarak: 1447 H"
 description: Celebrate Eid Mubarak with warmth and gratitude—marking the end of Ramadan with family, reflection, and joy.
 category: EVENT
 categoryColor: success

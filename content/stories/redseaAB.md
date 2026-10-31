@@ -1,5 +1,5 @@
 ---
-title: Whassup everyone!! AB+ time?
+title: "Whassup everyone!! AB+ time?"
 description: Whassup everyone Lil Ant O here 😎😎😎 WATCHOUT!!!!
 category: CHEMISTRY
 categoryColor: warning

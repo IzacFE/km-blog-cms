@@ -1,5 +1,5 @@
 ---
-title: Jawbreaker Discosoma: Stunning Colors and Patterns That Will Make You Crazy
+title: "Jawbreaker Discosoma: Stunning Colors and Patterns That Will Make You Crazy"
 description: Jawbreaker mushrooms are one of the most recognizable and prized corals in the reef aquarium hobby, known for their incredible concentric color patterns.
 category: REEF SCIENCE
 categoryColor: info

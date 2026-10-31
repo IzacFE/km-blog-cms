@@ -1,5 +1,5 @@
 ---
-title: Jawbreaker Discosoma: Warna dan Pola Menakjubkan yang Bikin Takjub
+title: "Jawbreaker Discosoma: Warna dan Pola Menakjubkan yang Bikin Takjub"
 description: Jawbreaker mushroom adalah salah satu karang yang paling mudah dikenali di hobby akuarium laut, terkenal karena pola warna konsentrisnya yang sangat unik.
 category: ILMU KARANG
 categoryColor: info
