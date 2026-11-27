@@ -12,8 +12,16 @@ Content is written in Markdown with YAML frontmatter. The website fetches conten
 content/
 ├── blog/       # Long-form articles (Reef Science, equipment guides, etc.)
 ├── stories/    # Short cards that appear on the homepage Stories section
-└── corals/     # Coral database entries with care parameters
+├── corals/     # Coral database entries with care parameters
+└── images/     # Thumbnails and gallery images (png, jpg, webp, gif, avif)
 ```
+
+### Images
+
+Put image files in `content/images/` and reference them by filename, e.g. `thumbnail: zoanthids.jpeg`.
+The website serves them through `/api/content/image?name=<file>`. The older form
+`/data/thumbnails/zoanthids.jpeg` still works and points to the same file. Filenames may only contain
+letters, numbers, `.`, `_` and `-` (no subfolders). Full `https://` URLs are used as-is.
 
 Each content type supports bilingual content (`lang: en` and `lang: id`). The website displays only the language matching the visitor's locale; if no translation exists it falls back to English.
 
@@ -249,7 +257,7 @@ Zoanthids are one of the most popular corals in the hobby...
 
 1. Create `content/blog/post-slug.md` (English)
 2. Create `content/blog/post-slug-id.md` (Indonesian) — copy the EN file and translate
-3. Add thumbnail image to the website's `dist/data/thumbnails/` folder (or use an external URL)
+3. Add the thumbnail image to `content/images/` in this repo and set `thumbnail: <filename>` (or use an external URL)
 4. Commit and push both files
 
 ### Adding a Story Card
